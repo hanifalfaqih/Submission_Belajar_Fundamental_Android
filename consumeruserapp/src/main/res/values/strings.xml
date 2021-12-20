@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Consumer User App</string>
+    <string name="username">Username</string>
+    <string name="location">Location</string>
+    <string name="name">Name</string>
+    <string name="company">Company</string>
+    <string name="default_text_location">Location not available</string>
+    <string name="default_text_company">Company not available</string>
+    <string name="title" translatable="false">Customer User App</string>
+</resources>

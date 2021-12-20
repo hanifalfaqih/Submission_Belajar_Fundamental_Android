@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github App</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="location">Lokasi</string>
+    <string name="search">Cari</string>
+    <string name="languange">Bahasa</string>
+    <string name="favorite">Favorit</string>
+    <string name="search_hint">Cari Nama Pengguna</string>
+    <string name="name">Nama</string>
+    <string name="bio">Bio</string>
+    <string name="follower">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="logo_github">Logo Github</string>
+    <string name="link_github">github.com/hanifalfaqih</string>
+    <string name="settings">Pengaturan</string>
+    <string name="company">Perusahaan</string>
+    <string name="default_text_location">Lokasi tidak tersedia</string>
+    <string name="default_text_company">Perusahaan tidak tersedia</string>
+    <string name="insert_user_success">Pengguna berhasil ditambahkan ke favorit</string>
+    <string name="delete_user_success">Pengguna berhasil dihapus dari favorit</string>
+    <string name="default_text_bio">Bio tidak tersedia</string>
+    <string name="alarm_manager">Pengingat</string>
+    <string name="favorite_users">Pengguna Favorit</string>
+    <string name="reminder_title">Pengingat</string>
+    <string name="reminder">Pengingat</string>
+    <string name="reminder_title_text">Pengingat pada pukul 09.00</string>
+    <string name="alarm_on">Alarm telah diaktifkan</string>
+    <string name="alarm_off">Alarm telah dinonaktifkan</string>
+    <string name="message">Ayo cari rekan untuk project kamu!</string>
+    <string name="throw_content_provider">Belum diimplementasikan</string>
+
+    <string name="empty_text">Data tidak tersedia</string>
+</resources>

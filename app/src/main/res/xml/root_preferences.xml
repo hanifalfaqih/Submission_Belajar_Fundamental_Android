@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        app:title="@string/reminder_title">
+
+        <SwitchPreferenceCompat
+            app:icon="@drawable/ic_baseline_alarm"
+            app:key="@string/reminder"
+            app:title="@string/reminder_title_text"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

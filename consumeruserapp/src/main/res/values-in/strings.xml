@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Consumer User App</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="location">Lokasi</string>
+    <string name="name">Nama</string>
+    <string name="company">Perusahaan</string>
+    <string name="default_text_location">Lokasi tidak tersedia</string>
+    <string name="default_text_company">Perusahaan tidak tersedia</string>
+</resources>
